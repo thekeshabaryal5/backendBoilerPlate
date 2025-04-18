@@ -8,7 +8,6 @@ import {
 } from "../controller/person.controller.js";
 
 let personRouter = Router();
-console.log("reached in router")
 personRouter
   .route("/")
   .post(createPersonController)
