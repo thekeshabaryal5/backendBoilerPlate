@@ -22,15 +22,20 @@ index.js                # Main entry point
 package.json
 package-lock.json
 ```
+
 ---
 
 ## ▶️ How to Run
+
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/keshab-aryal5/joiValidationBoilerPlate.git
 cd joiValidationBoilerPlate
 ```
+
 2. Install dependencies:
+
 ```bash
 npm i
 ```
@@ -40,15 +45,21 @@ If needed:
 ```bash
 npm i express
 ```
+
 3. Run the project:
+
 ```bash
 npm start
 ```
+
 Or, for development
+
 ```bash
 npm run dev
 ```
+
 ---
+
 ## 📦 Dependencies
 
 - [Express](https://expressjs.com/)
@@ -56,8 +67,11 @@ npm run dev
 - [express-async-handler](https://www.npmjs.com/package/express-async-handler)
 
 ---
+
 ## 🧪 Usage
+
 ### This boilerplate is ideal for:
+
 - Building RESTful APIs with Node.js and Express
 - Quick prototyping for backend projects
 - Creating CRUD-based applications
@@ -65,13 +79,11 @@ npm run dev
 - Educational or practice projects for learning backend architecture
 - Projects using MongoDB as a database
 
-
 ---
-
 
 ## 🙋‍♂️ Author
 
-- **Keshab Aryal** – [@keshab-aryal5](https://github.com/keshab-aryal5)
+- **Keshab Aryal** – [@keshab-aryal5](https://github.com/thekeshabaryal5)
 
 ---
 
