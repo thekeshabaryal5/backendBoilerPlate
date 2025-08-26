@@ -83,7 +83,7 @@ npm run dev
 
 ## 🙋‍♂️ Author
 
-- **Keshab Aryal** – [@keshab-aryal5](https://github.com/thekeshabaryal5)
+- **Keshab Aryal** – [@thekeshabaryal5](https://github.com/thekeshabaryal5)
 
 ---
 
